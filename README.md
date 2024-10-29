@@ -1,6 +1,6 @@
 # Recipes App
 
-# CURD Operation using Node And Express
+# CURD Operation using Node, Express and Mongoose
 
 # Sample Api are given below in the document
 
